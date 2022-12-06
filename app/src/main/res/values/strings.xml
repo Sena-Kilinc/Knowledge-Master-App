@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Knowledge Masters</string>
+    <string name="account">You don\'t have account? <b><u>Then sign up.</u></b></string>
+    <string name="forget_pass"><u>I forget my password.</u></string>
+</resources>

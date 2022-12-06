@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "997311798341",
+    "project_id": "knowledgemasters-e847e",
+    "storage_bucket": "knowledgemasters-e847e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997311798341:android:a8565654662c8afdd8172c",
+        "android_client_info": {
+          "package_name": "com.senakilinc.knowledgemasters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997311798341-ne1i7gk58qfqpbpc4ddiaqes4q8jqh44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.senakilinc.knowledgemasters",
+            "certificate_hash": "e1968a583f0c6815e5fb720562e06ae653e580cc"
+          }
+        },
+        {
+          "client_id": "997311798341-rib0t2b5riqgo0373bhggbk8qqgohp8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSOmhS-g1pGQj9d5B654nDFaJWipRgSrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997311798341-rib0t2b5riqgo0373bhggbk8qqgohp8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
